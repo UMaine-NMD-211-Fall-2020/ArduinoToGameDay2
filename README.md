@@ -1,6 +1,11 @@
 # Arduino To Game Day 2
 It's the last lab session of the semester. Here's the agenda
 
+## Agenda
+- Go over Lab Assignments Due
+- Break into breakgout groups. Work on whatever you think makes sense. If you need to complete an old lab, work on this. If you want to work on the Arduino Game controller or some aspect of the documentation, work on this. If you want to work on other class work (late homework assignments, etc.) and want feedback from classmates or the TA, now's a good time for it. 
+- Last 10-15 minutes, come together for review purposes. 
+
 ## Review of Assignments
 ### Labs Due
 Labs 1 - 10 should be turned in by Monday, December 14, at 12:01 AM. I want to be able to grade anything whenver I get up. If you have questions about completing any of these labs, let me know. 
