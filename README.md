@@ -10,7 +10,7 @@ It's the last lab session of the semester. Here's the agenda
 ### Labs Due
 Labs 1 - 10 should be turned in by Monday, December 14, at 12:01 AM. I want to be able to grade anything whenver I get up. If you have questions about completing any of these labs, let me know. 
 
-Arduino Control for your game is not a lab. It is due when your game is due. 
+Arduino Control for your game is not a lab. It is due when your game is due (Thursday, December 17). 
 ### Arduino Control for your Final Project Game
 As of now, creating an Arduino Interface for your Processing Final Project Game is a source of **4** extra credit points. These extra credit points apply to lab, but will also carry over to the main class if this pushes you over the 20 points you can get in lab. 
 
